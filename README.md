@@ -5,3 +5,5 @@ npx tailwindcss init -p
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+text-5xl font-bold text-orange-300
+npm install antd --save
